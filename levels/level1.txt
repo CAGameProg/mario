@@ -1,0 +1,17 @@
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0                                                                                                                                                    0
+0                                                                                    w                                                               0
+0                   w                                  w                   w                                                                         0
+0                                      w                                       kk                                                                    0
+0                                                                             k  k                                                                   0
+0                      c                                                      k     kk         w                                                     0
+0                                                                       r     k kk k  k                                                   C          0
+0                                                                      rr     k  k k  k                                                              0
+0                                                                     rrr      kk   kk                                                               0
+0               c    kckck                                           rrrr                                                                            0
+0                                      t0                           rrrrr                                                                            0
+0G                                     00              t0          rrrrrr            G                                                               0
+0           d    g   e   d     e       00eeeeeeeeeeeeee00         rrrrrrr                   e                                               x        0
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
